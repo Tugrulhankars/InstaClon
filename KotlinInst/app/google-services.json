@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136964623546",
+    "project_id": "kotlininstaclon-e2907",
+    "storage_bucket": "kotlininstaclon-e2907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136964623546:android:be0c2b8558be00a3aec683",
+        "android_client_info": {
+          "package_name": "com.turgut.kotlininst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPFeil1vOGWoztLSn6RRhD72MMtstgTqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
